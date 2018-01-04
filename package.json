@@ -39,7 +39,8 @@
     "coffeelint-no-mocha-only": "^1.0.0",
     "coffeelint-use-strict": "^1.0.0",
     "coffeescope2": "~0.4.2",
-    "nlm": "^3.0.0"
+    "nlm": "^3.0.0",
+    "nodemon": "^1.0.0"
   },
   "author": {
     "name": "David Bushong",
